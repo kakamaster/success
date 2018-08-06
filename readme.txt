@@ -1,4 +1,2 @@
-This is one
-This is two
-This is three
-xxxxxxxxx
+Git is a version control system.
+Git is free software
